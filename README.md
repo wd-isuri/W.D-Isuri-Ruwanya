@@ -2,7 +2,8 @@
 # Hi, I'm Isuri 👋  
 
 🎓 BSc (Hons) in Information Systems | Undergraduate  
-💻 Passionate about Web Development & Data Science  
+💻 Passionate about Web Development & UI/UX  
+  
 
 ---
 
@@ -10,14 +11,7 @@
 - 🌐 Web: HTML, CSS, React.js  
 - 🖥 Programming: C, Java, OOP  
 - 🗄 Databases: SQL, MySQL  
-- 📊 Interests: Data Analysis, UI/UX  
-
----
-
-## 🔹 Projects  
-- 🌴 [Explore Ceylon](https://github.com/YourUsername/ExploreCeylon) – A static travel website about Sri Lanka  
-
----
+- 📊 Interests: Web Development, UI/UX  
 
 ## 🔹 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wd-isuri&show_icons=true&theme=radical)
